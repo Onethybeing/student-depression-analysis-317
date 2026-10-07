@@ -1,0 +1,30 @@
+                           Logit Regression Results                           
+==============================================================================
+Dep. Variable:             depression   No. Observations:                  317
+Model:                          Logit   Df Residuals:                      304
+Method:                           MLE   Df Model:                           12
+Date:                Wed, 07 Oct 2026   Pseudo R-squ.:                  0.7941
+Time:                        22:07:06   Log-Likelihood:                -39.314
+converged:                       True   LL-Null:                       -190.94
+Covariance Type:            nonrobust   LLR p-value:                 9.699e-58
+=================================================================================
+                    coef    std err          z      P>|z|      [0.025      0.975]
+---------------------------------------------------------------------------------
+const            -2.0254      7.074     -0.286      0.775     -15.891      11.840
+male             -1.9351      0.956     -2.023      0.043      -3.810      -0.061
+age              -0.2116      0.241     -0.877      0.381      -0.685       0.262
+cgpa             -0.0242      0.420     -0.057      0.954      -0.848       0.799
+semester         -0.0913      0.161     -0.568      0.570      -0.406       0.224
+cost_mid         -1.0101      1.207     -0.837      0.403      -3.375       1.355
+cost_high        -0.7208      1.068     -0.675      0.500      -2.814       1.372
+fam_lowermid     -1.3113      1.319     -0.994      0.320      -3.897       1.274
+fam_rich          0.9323      0.848      1.099      0.272      -0.731       2.595
+single            5.9807      1.144      5.227      0.000       3.738       8.223
+live_family      -0.9914      0.759     -1.305      0.192      -2.480       0.497
+friend_circle    -1.0736      0.751     -1.430      0.153      -2.545       0.398
+health_poor       8.4788      1.261      6.722      0.000       6.006      10.951
+=================================================================================
+
+Possibly complete quasi-separation: A fraction 0.16 of observations can be
+perfectly predicted. This might indicate that there is complete
+quasi-separation. In this case some parameters will not be identified.
