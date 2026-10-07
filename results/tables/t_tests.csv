@@ -1,0 +1,4 @@
+Variable,Mean (not depressed),Mean (depressed),Difference,Welch t,t-test p-value,Mann-Whitney U,Mann-Whitney p-value
+CGPA,8.7647,8.7261,-0.0386,-0.3489,0.7277,10366.0,0.9833
+Age (years),21.6356,21.5652,-0.0703,-0.3848,0.7009,9881.5,0.5184
+Current semester,5.1956,5.0109,-0.1847,-0.7318,0.4651,10066.0,0.6985

@@ -1,0 +1,318 @@
+Student_ID,Gender,Age,Family_background,Relationship_status,Living_style,Current_semester,CGPA,friend_circle,Health_condition,Living_expense,Depression
+1,Female,21,Middle class,Single,Bachelor,7,8.0,Yes,Abnormal,High,No
+2,Male,20,Middle class,Single,Bachelor,5,9.3,Yes,Abnormal,Mid,Yes
+3,Male,23,Middle class,In a Relationship,Bachelor,4,9.18,Yes,Good,High,No
+4,Male,20,Middle class,Single,Bachelor,8,7.5,Yes,Good,High,No
+5,Male,22,Middle class,Single,Bachelor,3,8.98,Yes,Good,High,No
+6,Female,24,Lower Middle class,Single,Family,7,8.4,No,Good,Low,No
+7,Female,24,Middle class,Single,Bachelor,5,10.0,Yes,Good,Mid,No
+8,Male,22,Middle class,In a Relationship,Family,3,8.85,Yes,Normal,Low,No
+9,Male,20,Middle class,Single,Bachelor,5,9.38,Yes,Abnormal,High,Yes
+10,Male,24,Middle class,Single,Bachelor,5,10.0,Yes,Good,Mid,No
+11,Male,19,Middle class,Single,Bachelor,8,8.75,Yes,Normal,Mid,No
+12,Female,23,Lower Middle class,Single,Bachelor,3,10.0,Yes,Abnormal,Low,Yes
+13,Female,24,Middle class,Single,Family,5,9.55,Yes,Critical,High,Yes
+14,Male,20,Middle class,Single,Bachelor,1,7.5,Yes,Good,High,No
+15,Male,24,Lower Middle class,Single,Bachelor,9,9.2,Yes,Abnormal,Low,Yes
+16,Female,23,Rich class,Single,Bachelor,3,9.15,Yes,Normal,High,No
+17,Male,20,Lower Middle class,Single,Bachelor,8,8.75,No,Normal,Low,No
+18,Male,20,Middle class,Single,Bachelor,5,9.95,Yes,Good,High,No
+19,Female,23,Rich class,In a Relationship,Bachelor,5,8.88,Yes,Critical,High,Yes
+20,Male,23,Lower Middle class,In a Relationship,Family,6,8.0,No,Abnormal,Low,No
+21,Female,22,Middle class,Single,Bachelor,9,7.28,Yes,Normal,High,No
+22,Female,22,Rich class,In a Relationship,Family,3,8.12,Yes,Normal,Low,No
+23,Male,23,Middle class,Single,Family,3,9.25,No,Normal,Mid,No
+24,Male,23,Lower Middle class,Complicated,Bachelor,7,9.25,Yes,Good,Low,No
+25,Male,23,Middle class,Single,Bachelor,7,9.6,Yes,Critical,High,Yes
+26,Female,23,Middle class,Single,Family,4,7.38,Yes,Good,Low,No
+27,Female,23,Lower Middle class,In a Relationship,Bachelor,5,9.4,No,Normal,Low,No
+28,Female,24,Lower Middle class,In a Relationship,Bachelor,2,7.5,No,Critical,Low,Yes
+29,Female,22,Rich class,Single,Family,5,7.3,Yes,Abnormal,High,Yes
+30,Male,20,Middle class,Single,Bachelor,5,9.48,Yes,Normal,High,No
+31,Male,23,Middle class,Single,Bachelor,9,9.6,Yes,Critical,High,Yes
+32,Female,22,Middle class,Single,Bachelor,5,8.62,Yes,Abnormal,High,Yes
+33,Male,22,Lower Middle class,Single,Bachelor,8,9.38,Yes,Abnormal,Low,Yes
+34,Male,20,Middle class,Single,Bachelor,5,9.45,Yes,Normal,High,No
+35,Female,21,Middle class,Single,Family,5,8.75,Yes,Good,High,No
+36,Female,23,Middle class,Single,Family,5,7.08,No,Abnormal,Low,Yes
+37,Female,22,Lower Middle class,Single,Family,2,9.83,Yes,Abnormal,Low,Yes
+38,Male,21,Lower Middle class,Single,Bachelor,9,7.9,Yes,Normal,Low,No
+39,Male,20,Lower Middle class,Single,Bachelor,9,9.0,Yes,Normal,Low,No
+40,Female,23,Middle class,Single,Family,7,8.62,No,Good,Low,No
+41,Male,22,Rich class,In a Relationship,Family,3,9.72,Yes,Good,High,No
+42,Male,20,Middle class,Single,Bachelor,1,9.0,Yes,Abnormal,High,Yes
+43,Female,24,Lower Middle class,Single,Family,4,8.43,No,Good,Low,No
+44,Male,23,Middle class,Single,Bachelor,3,8.0,Yes,Normal,Mid,No
+45,Male,22,Middle class,Single,Bachelor,3,8.5,Yes,Abnormal,Mid,Yes
+46,Female,24,Middle class,In a Relationship,Bachelor,5,8.62,Yes,Abnormal,Mid,No
+47,Female,24,Middle class,Single,Bachelor,5,8.9,Yes,Critical,Mid,Yes
+48,Female,22,Rich class,Single,Bachelor,4,8.9,Yes,Critical,High,Yes
+49,Female,22,Lower Middle class,In a Relationship,Family,7,9.0,Yes,Abnormal,Low,No
+50,Male,24,Middle class,Single,Family,8,8.82,Yes,Good,Mid,No
+51,Female,22,Rich class,In a Relationship,Family,2,8.5,Yes,Normal,Low,No
+52,Male,20,Middle class,Single,Bachelor,5,9.18,Yes,Abnormal,Mid,Yes
+53,Female,21,Middle class,In a Relationship,Family,4,8.9,Yes,Good,High,No
+54,Female,21,Rich class,Single,Bachelor,5,9.38,Yes,Good,High,No
+55,Female,21,Middle class,In a Relationship,Family,2,9.43,Yes,Good,Mid,No
+56,Female,19,Lower Middle class,Single,Bachelor,8,7.25,Yes,Critical,Low,Yes
+57,Male,20,Middle class,Single,Bachelor,5,9.15,Yes,Good,Mid,No
+58,Female,24,Middle class,Single,Family,7,8.12,Yes,Abnormal,Mid,Yes
+59,Female,20,Middle class,In a Relationship,Bachelor,3,10.0,No,Good,High,No
+60,Female,23,Middle class,Single,Family,7,9.22,Yes,Normal,Low,No
+61,Female,24,Middle class,In a Relationship,Bachelor,8,7.5,Yes,Abnormal,High,No
+62,Female,23,Rich class,In a Relationship,Family,9,8.25,No,Critical,High,Yes
+63,Male,21,Lower Middle class,In a Relationship,Bachelor,4,8.25,No,Good,Low,No
+64,Female,20,Middle class,In a Relationship,Bachelor,7,9.5,Yes,Critical,High,Yes
+65,Female,22,Middle class,In a Relationship,Family,8,9.9,No,Good,Mid,No
+66,Female,20,Rich class,Single,Bachelor,6,8.62,Yes,Normal,High,No
+67,Male,22,Lower Middle class,Single,Bachelor,5,7.25,Yes,Critical,Low,Yes
+68,Female,21,Rich class,In a Relationship,Family,9,8.25,No,Normal,High,No
+69,Male,21,Middle class,Single,Bachelor,7,8.9,Yes,Normal,High,No
+70,Female,23,Rich class,Single,Family,8,7.0,No,Critical,High,Yes
+71,Female,23,Lower Middle class,In a Relationship,Bachelor,7,8.48,No,Abnormal,Low,No
+72,Male,24,Middle class,Single,Bachelor,7,10.0,No,Good,Mid,No
+73,Female,24,Middle class,Single,Family,2,9.1,No,Normal,Low,No
+74,Male,18,Rich class,Single,Bachelor,4,9.18,No,Good,High,No
+75,Male,20,Lower Middle class,Single,Bachelor,2,10.0,No,Critical,Low,Yes
+76,Male,21,Middle class,In a Relationship,Bachelor,4,7.5,Yes,Good,Mid,No
+77,Female,18,Lower Middle class,Single,Family,2,9.38,Yes,Normal,Low,No
+78,Female,22,Rich class,In a Relationship,Family,3,9.0,Yes,Abnormal,Low,No
+79,Female,22,Rich class,In a Relationship,Family,6,9.72,Yes,Normal,Low,No
+80,Female,23,Middle class,Single,Family,6,7.18,No,Normal,Low,Yes
+81,Male,23,Lower Middle class,In a Relationship,Bachelor,3,7.88,No,Abnormal,Low,No
+82,Female,23,Middle class,In a Relationship,Family,4,7.5,Yes,Abnormal,High,No
+83,Female,20,Middle class,In a Relationship,Family,3,8.75,No,Abnormal,High,No
+84,Female,23,Middle class,Single,Family,5,8.0,Yes,Critical,Mid,Yes
+85,Male,24,Middle class,In a Relationship,Bachelor,9,8.28,Yes,Good,Mid,No
+86,Female,20,Lower Middle class,Single,Family,2,8.95,No,Good,Low,No
+87,Male,22,Middle class,In a Relationship,Bachelor,2,8.88,Yes,Good,Mid,No
+88,Male,20,Middle class,Single,Bachelor,5,9.75,Yes,Normal,Mid,No
+89,Female,23,Middle class,Single,Family,7,8.12,No,Critical,Mid,Yes
+90,Female,20,Lower Middle class,Single,Bachelor,3,8.25,No,Critical,Low,Yes
+91,Female,23,Middle class,Single,Bachelor,4,9.18,No,Good,Mid,No
+92,Female,22,Rich class,In a Relationship,Family,9,9.55,Yes,Good,Low,No
+93,Female,22,Rich class,In a Relationship,Family,5,6.8,Yes,Good,Low,No
+94,Male,23,Lower Middle class,Single,Bachelor,4,8.62,Yes,Good,Low,No
+95,Male,22,Middle class,In a Relationship,Bachelor,4,9.45,Yes,Good,High,No
+96,Female,22,Rich class,In a Relationship,Bachelor,3,10.0,Yes,Critical,Mid,Yes
+97,Female,22,Rich class,In a Relationship,Family,11,8.2,Yes,Normal,Low,No
+98,Male,21,Middle class,Single,Family,3,8.0,Yes,Abnormal,Mid,Yes
+99,Female,23,Middle class,In a Relationship,Family,4,9.83,No,Abnormal,Mid,No
+100,Female,23,Middle class,In a Relationship,Family,3,8.95,No,Good,Mid,No
+101,Female,22,Rich class,In a Relationship,Family,3,9.2,Yes,Normal,Low,No
+102,Male,21,Lower Middle class,Single,Family,5,9.45,Yes,Normal,Low,No
+103,Male,21,Lower Middle class,Single,Family,4,8.68,No,Good,Low,No
+104,Male,21,Lower Middle class,Single,Family,5,9.75,Yes,Good,Low,No
+105,Male,23,Lower Middle class,Single,Bachelor,7,9.85,Yes,Normal,Low,No
+106,Male,22,Middle class,In a Relationship,Bachelor,2,10.0,Yes,Good,High,No
+107,Female,21,Middle class,In a Relationship,Family,2,9.5,Yes,Normal,High,No
+108,Male,21,Middle class,Complicated,Family,4,8.75,Yes,Abnormal,Mid,No
+109,Female,20,Lower Middle class,Complicated,Bachelor,2,9.25,Yes,Good,Low,No
+110,Male,24,Middle class,Single,Bachelor,4,9.75,Yes,Critical,Mid,Yes
+111,Male,21,Middle class,Complicated,Family,3,9.25,Yes,Good,High,No
+112,Male,21,Middle class,Single,Bachelor,8,8.65,Yes,Normal,High,No
+113,Male,20,Middle class,Single,Bachelor,5,7.5,Yes,Normal,High,No
+114,Male,24,Lower Middle class,Single,Bachelor,5,8.55,Yes,Good,Low,No
+115,Male,23,Middle class,Single,Bachelor,2,9.38,No,Critical,Mid,Yes
+116,Female,21,Lower Middle class,Single,Family,8,9.38,Yes,Good,Low,No
+117,Female,20,Middle class,In a Relationship,Family,6,8.25,No,Abnormal,Mid,No
+118,Female,21,Middle class,In a Relationship,Family,2,9.43,Yes,Good,High,No
+119,Female,22,Middle class,Single,Bachelor,3,9.55,Yes,Critical,Mid,Yes
+120,Female,22,Middle class,In a Relationship,Bachelor,5,8.88,No,Normal,Low,No
+121,Male,18,Middle class,In a Relationship,Family,1,8.73,Yes,Normal,Mid,No
+122,Male,23,Lower Middle class,Single,Bachelor,7,8.62,Yes,Good,Low,No
+123,Male,20,Middle class,Single,Bachelor,5,9.0,Yes,Critical,Mid,Yes
+124,Female,22,Middle class,In a Relationship,Family,5,9.72,Yes,Abnormal,Mid,No
+125,Male,20,Middle class,Single,Bachelor,3,9.75,Yes,Good,Mid,No
+126,Female,23,Middle class,Single,Family,3,9.2,No,Abnormal,Low,Yes
+127,Female,24,Lower Middle class,Single,Family,8,8.28,No,Critical,Low,Yes
+128,Male,21,Rich class,Single,Family,5,8.62,Yes,Normal,High,No
+129,Male,21,Middle class,Single,Bachelor,0,8.95,Yes,Normal,Low,No
+130,Male,19,Middle class,Single,Bachelor,1,7.5,No,Normal,Mid,No
+131,Female,20,Middle class,In a Relationship,Family,3,8.02,Yes,Normal,High,No
+132,Female,23,Middle class,Single,Bachelor,3,9.5,Yes,Critical,High,Yes
+133,Male,23,Lower Middle class,Single,Bachelor,7,9.7,Yes,Good,Low,No
+134,Male,20,Middle class,Single,Bachelor,3,9.45,Yes,Abnormal,Mid,Yes
+135,Female,20,Lower Middle class,Single,Bachelor,6,9.72,No,Good,Low,No
+136,Female,22,Middle class,Single,Family,4,9.25,Yes,Critical,Mid,Yes
+137,Male,20,Middle class,Single,Bachelor,5,8.98,Yes,Critical,Mid,Yes
+138,Male,20,Lower Middle class,Single,Bachelor,3,8.75,No,Good,Low,No
+139,Male,20,Lower Middle class,Single,Bachelor,5,7.75,Yes,Normal,Low,No
+140,Female,24,Lower Middle class,Single,Family,8,8.95,Yes,Abnormal,Low,Yes
+141,Female,22,Middle class,Single,Bachelor,4,9.12,Yes,Normal,High,No
+142,Female,22,Lower Middle class,Single,Family,6,9.12,Yes,Normal,Low,No
+143,Female,21,Middle class,Single,Family,5,9.0,No,Normal,High,No
+144,Female,23,Middle class,Single,Family,8,9.68,Yes,Good,Low,No
+145,Female,22,Middle class,In a Relationship,Family,8,7.5,Yes,Abnormal,Mid,No
+146,Male,20,Middle class,Single,Bachelor,5,9.4,Yes,Critical,Mid,Yes
+147,Female,21,Middle class,In a Relationship,Bachelor,1,9.68,Yes,Normal,High,No
+148,Female,22,Lower Middle class,In a Relationship,Bachelor,4,10.0,Yes,Good,Low,No
+149,Female,23,Lower Middle class,In a Relationship,Family,7,9.38,Yes,Good,Low,No
+150,Female,24,Lower Middle class,Single,Bachelor,8,9.72,No,Good,Low,No
+151,Male,20,Lower Middle class,Single,Bachelor,5,8.9,No,Normal,Low,No
+152,Male,21,Middle class,In a Relationship,Bachelor,5,8.75,No,Abnormal,High,No
+153,Male,20,Rich class,Single,Bachelor,5,8.95,Yes,Good,High,No
+154,Male,22,Middle class,In a Relationship,Bachelor,7,8.38,No,Abnormal,High,No
+155,Male,20,Middle class,Single,Bachelor,5,8.98,Yes,Abnormal,High,Yes
+156,Female,22,Rich class,In a Relationship,Family,10,6.82,Yes,Abnormal,Low,No
+157,Female,23,Middle class,Single,Family,4,9.45,No,Abnormal,High,Yes
+158,Female,22,Middle class,In a Relationship,Bachelor,5,9.18,Yes,Critical,High,Yes
+159,Male,21,Middle class,Single,Bachelor,2,9.98,No,Abnormal,Mid,Yes
+160,Female,21,Middle class,Single,Family,5,9.38,No,Good,Mid,No
+161,Male,24,Middle class,Single,Bachelor,4,9.18,Yes,Normal,Mid,No
+162,Female,22,Rich class,In a Relationship,Family,6,8.48,Yes,Good,Low,No
+163,Female,22,Middle class,Single,Bachelor,1,10.0,Yes,Critical,Mid,Yes
+164,Female,24,Rich class,Single,Bachelor,4,7.95,Yes,Normal,High,No
+165,Male,20,Middle class,Single,Bachelor,5,8.98,Yes,Abnormal,High,Yes
+166,Female,22,Rich class,In a Relationship,Family,8,8.95,Yes,Normal,Low,No
+167,Female,24,Middle class,In a Relationship,Family,5,7.5,No,Normal,High,No
+168,Female,23,Middle class,Single,Family,5,7.25,No,Abnormal,Low,Yes
+169,Female,21,Middle class,Single,Family,5,8.75,No,Good,High,No
+170,Male,20,Middle class,Single,Bachelor,2,8.6,Yes,Critical,Mid,Yes
+171,Female,23,Lower Middle class,Complicated,Bachelor,7,9.7,No,Normal,Low,No
+172,Male,20,Middle class,Single,Bachelor,4,7.5,Yes,Normal,High,No
+173,Female,22,Middle class,In a Relationship,Bachelor,8,7.25,Yes,Good,High,No
+174,Female,23,Rich class,Single,Bachelor,7,8.43,Yes,Normal,Low,No
+175,Female,21,Rich class,In a Relationship,Family,2,8.9,Yes,Good,High,No
+176,Male,20,Middle class,Single,Bachelor,5,9.35,Yes,Abnormal,High,Yes
+177,Female,21,Lower Middle class,Single,Bachelor,7,9.38,Yes,Abnormal,Low,Yes
+178,Male,22,Middle class,In a Relationship,Bachelor,8,6.25,Yes,Abnormal,High,No
+179,Female,22,Rich class,In a Relationship,Family,9,8.12,Yes,Normal,Low,No
+180,Male,21,Rich class,Complicated,Family,8,7.22,No,Normal,High,No
+181,Female,24,Middle class,In a Relationship,Family,4,8.38,No,Abnormal,Mid,No
+182,Male,20,Middle class,Single,Bachelor,3,9.35,Yes,Normal,High,No
+183,Male,21,Middle class,In a Relationship,Family,4,6.5,Yes,Normal,Mid,No
+184,Male,20,Lower Middle class,Single,Bachelor,4,8.75,Yes,Normal,Low,No
+185,Male,24,Middle class,In a Relationship,Family,4,8.25,Yes,Good,Mid,No
+186,Female,20,Rich class,In a Relationship,Family,9,8.95,Yes,Critical,High,Yes
+187,Female,22,Middle class,In a Relationship,Bachelor,5,7.25,Yes,Critical,High,Yes
+188,Male,23,Middle class,In a Relationship,Bachelor,7,9.5,Yes,Normal,Mid,No
+189,Male,20,Middle class,Single,Bachelor,5,9.72,Yes,Normal,Mid,No
+190,Male,24,Middle class,Single,Bachelor,7,10.0,Yes,Good,High,No
+191,Male,23,Middle class,Single,Bachelor,6,9.78,No,Abnormal,High,Yes
+192,Female,20,Middle class,Single,Bachelor,3,9.25,Yes,Good,Mid,No
+193,Female,23,Middle class,Single,Family,8,6.57,No,Critical,Low,Yes
+194,Male,20,Middle class,In a Relationship,Bachelor,4,9.25,No,Abnormal,Mid,No
+195,Female,23,Middle class,In a Relationship,Bachelor,6,9.15,Yes,Abnormal,Mid,No
+196,Male,22,Middle class,Complicated,Family,2,8.88,Yes,Good,Mid,No
+197,Female,23,Middle class,Single,Family,4,6.28,No,Normal,Low,No
+198,Female,24,Lower Middle class,In a Relationship,Bachelor,2,8.12,No,Good,Low,No
+199,Female,24,Lower Middle class,Single,Bachelor,5,9.65,Yes,Normal,Low,No
+200,Male,23,Middle class,Single,Family,8,6.7,Yes,Normal,Low,No
+201,Male,22,Middle class,In a Relationship,Bachelor,3,8.75,No,Abnormal,High,No
+202,Male,21,Middle class,In a Relationship,Family,3,8.85,No,Good,Mid,No
+203,Male,21,Middle class,Single,Family,4,8.0,No,Abnormal,High,Yes
+204,Female,23,Lower Middle class,Single,Bachelor,7,8.95,Yes,Good,Low,No
+205,Male,22,Middle class,In a Relationship,Bachelor,5,8.75,Yes,Normal,High,No
+206,Male,20,Middle class,Single,Bachelor,2,8.0,Yes,Normal,High,No
+207,Male,21,Middle class,Single,Bachelor,6,8.15,Yes,Normal,High,No
+208,Male,24,Middle class,Single,Bachelor,9,9.68,No,Normal,Mid,No
+209,Male,21,Lower Middle class,Single,Bachelor,4,8.92,Yes,Normal,Low,No
+210,Male,20,Middle class,Single,Bachelor,5,8.98,Yes,Abnormal,Mid,Yes
+211,Male,23,Middle class,In a Relationship,Bachelor,3,9.0,Yes,Normal,High,No
+212,Male,22,Rich class,Single,Bachelor,2,9.72,Yes,Good,High,No
+213,Male,20,Lower Middle class,Single,Bachelor,8,9.72,Yes,Good,Low,No
+214,Female,21,Middle class,In a Relationship,Family,4,8.35,Yes,Normal,High,No
+215,Female,23,Rich class,In a Relationship,Family,6,7.5,Yes,Abnormal,High,No
+216,Male,20,Middle class,Single,Bachelor,5,9.65,Yes,Abnormal,Mid,Yes
+217,Female,21,Middle class,In a Relationship,Bachelor,8,9.5,Yes,Good,Mid,No
+218,Female,20,Middle class,Single,Bachelor,3,8.92,Yes,Abnormal,High,Yes
+219,Female,20,Middle class,In a Relationship,Bachelor,4,7.82,No,Good,Mid,No
+220,Female,21,Rich class,In a Relationship,Family,6,7.25,No,Normal,High,No
+221,Female,20,Middle class,Single,Family,5,7.5,Yes,Critical,High,Yes
+222,Female,22,Rich class,In a Relationship,Family,7,9.3,Yes,Normal,Low,No
+223,Female,20,Middle class,Single,Bachelor,3,8.92,Yes,Abnormal,High,Yes
+224,Female,22,Middle class,In a Relationship,Bachelor,8,7.5,Yes,Good,Mid,No
+225,Male,22,Middle class,In a Relationship,Family,3,7.5,Yes,Normal,High,No
+226,Female,20,Middle class,In a Relationship,Family,2,9.35,Yes,Normal,High,No
+227,Male,22,Middle class,Single,Bachelor,3,8.62,No,Good,Mid,No
+228,Male,20,Middle class,Single,Bachelor,5,7.85,Yes,Normal,Mid,No
+229,Male,20,Middle class,Single,Bachelor,5,9.2,Yes,Abnormal,Mid,Yes
+230,Female,22,Middle class,Complicated,Family,7,9.45,No,Normal,Mid,No
+231,Female,22,Middle class,In a Relationship,Family,6,8.62,No,Abnormal,High,No
+232,Male,22,Middle class,Single,Bachelor,4,8.98,No,Abnormal,High,Yes
+233,Female,21,Rich class,In a Relationship,Family,2,9.7,Yes,Normal,High,No
+234,Male,23,Middle class,In a Relationship,Family,5,8.88,Yes,Normal,Mid,No
+235,Male,20,Middle class,Single,Bachelor,9,8.6,Yes,Critical,High,Yes
+236,Male,21,Middle class,Single,Bachelor,7,8.95,Yes,Normal,Mid,No
+237,Male,21,Middle class,Single,Bachelor,1,8.95,Yes,Normal,Low,No
+238,Female,21,Rich class,In a Relationship,Family,5,8.58,Yes,Normal,Low,No
+239,Male,19,Middle class,Single,Bachelor,5,7.45,Yes,Normal,High,No
+240,Female,22,Rich class,In a Relationship,Family,2,8.12,Yes,Normal,Low,No
+241,Male,20,Middle class,Single,Bachelor,5,8.98,Yes,Critical,High,Yes
+242,Male,20,Middle class,Single,Bachelor,5,8.05,Yes,Good,High,No
+243,Male,21,Middle class,Single,Bachelor,4,7.0,No,Abnormal,High,Yes
+244,Female,22,Rich class,In a Relationship,Family,4,9.0,Yes,Good,High,No
+245,Female,23,Lower Middle class,In a Relationship,Family,6,9.38,No,Normal,Low,No
+246,Male,24,Middle class,Single,Bachelor,8,9.38,Yes,Abnormal,High,Yes
+247,Female,21,Middle class,In a Relationship,Bachelor,10,9.7,No,Good,Mid,No
+248,Male,20,Middle class,Single,Bachelor,6,8.12,No,Normal,Mid,Yes
+249,Male,18,Lower Middle class,In a Relationship,Family,4,8.9,No,Good,Low,No
+250,Male,20,Middle class,Single,Bachelor,5,9.1,Yes,Critical,High,Yes
+251,Male,21,Lower Middle class,Single,Bachelor,4,9.07,Yes,Normal,Low,No
+252,Female,22,Rich class,In a Relationship,Family,8,8.43,Yes,Normal,Low,No
+253,Female,23,Middle class,Single,Family,6,6.6,Yes,Critical,Low,Yes
+254,Female,21,Rich class,Single,Bachelor,3,8.95,Yes,Normal,High,No
+255,Female,23,Rich class,Single,Bachelor,5,7.22,Yes,Critical,High,Yes
+256,Female,23,Lower Middle class,Complicated,Bachelor,7,9.25,Yes,Good,Low,No
+257,Female,21,Rich class,In a Relationship,Family,6,9.95,Yes,Good,High,No
+258,Male,21,Lower Middle class,Single,Bachelor,4,9.88,Yes,Good,Low,No
+259,Male,18,Middle class,Complicated,Family,5,9.3,Yes,Normal,Low,No
+260,Male,20,Middle class,Single,Bachelor,5,8.98,Yes,Abnormal,High,Yes
+261,Male,23,Middle class,Single,Family,6,8.5,Yes,Critical,Mid,Yes
+262,Female,21,Middle class,Single,Bachelor,5,9.62,No,Normal,Low,No
+263,Female,22,Middle class,Single,Bachelor,8,8.7,Yes,Normal,Mid,No
+264,Female,24,Middle class,In a Relationship,Family,8,7.18,Yes,Abnormal,Low,No
+265,Male,20,Middle class,Single,Family,6,8.73,Yes,Abnormal,Mid,Yes
+266,Male,22,Middle class,Single,Bachelor,8,9.2,Yes,Normal,Mid,No
+267,Female,22,Rich class,In a Relationship,Family,6,9.57,Yes,Good,Low,No
+268,Female,23,Middle class,Single,Family,3,7.12,No,Critical,Low,Yes
+269,Female,23,Middle class,In a Relationship,Family,6,8.62,No,Critical,High,Yes
+270,Male,20,Middle class,Single,Bachelor,5,9.28,Yes,Abnormal,Mid,Yes
+271,Female,22,Middle class,In a Relationship,Family,5,8.5,No,Good,High,No
+272,Male,21,Middle class,In a Relationship,Bachelor,3,10.0,Yes,Good,Low,No
+273,Female,22,Rich class,In a Relationship,Family,11,8.4,Yes,Normal,Low,No
+274,Male,20,Middle class,Single,Bachelor,5,8.98,Yes,Abnormal,Mid,Yes
+275,Male,20,Rich class,Single,Bachelor,5,8.98,Yes,Good,High,No
+276,Female,21,Middle class,In a Relationship,Family,8,10.0,No,Normal,Mid,No
+277,Male,20,Lower Middle class,Single,Bachelor,8,7.78,Yes,Good,Low,No
+278,Female,24,Lower Middle class,Single,Family,3,9.75,Yes,Good,Low,No
+279,Male,20,Middle class,Single,Bachelor,5,9.02,Yes,Critical,High,Yes
+280,Male,21,Middle class,Single,Bachelor,8,7.5,Yes,Critical,Mid,Yes
+281,Female,20,Middle class,Single,Family,3,9.75,No,Critical,Mid,Yes
+282,Female,21,Middle class,In a Relationship,Bachelor,8,9.25,Yes,Normal,Mid,No
+283,Male,20,Middle class,Single,Bachelor,5,9.2,Yes,Abnormal,High,Yes
+284,Female,21,Lower Middle class,In a Relationship,Family,9,8.75,No,Normal,Low,No
+285,Female,20,Middle class,In a Relationship,Family,4,8.25,No,Normal,Mid,No
+286,Male,23,Middle class,Single,Bachelor,10,9.2,Yes,Abnormal,Mid,No
+287,Female,22,Middle class,In a Relationship,Bachelor,4,9.45,Yes,Critical,Mid,Yes
+288,Female,23,Middle class,Single,Family,7,8.7,No,Normal,Low,Yes
+289,Male,21,Middle class,In a Relationship,Family,7,7.75,Yes,Normal,High,No
+290,Female,22,Rich class,In a Relationship,Family,9,9.48,Yes,Normal,Low,No
+291,Female,20,Middle class,In a Relationship,Bachelor,2,8.65,No,Normal,Mid,No
+292,Female,19,Middle class,In a Relationship,Bachelor,4,8.25,Yes,Good,High,No
+293,Male,24,Middle class,Complicated,Bachelor,8,9.38,Yes,Normal,Mid,No
+294,Female,23,Rich class,Single,Bachelor,4,9.38,Yes,Good,High,No
+295,Male,22,Middle class,Single,Bachelor,5,8.88,No,Good,High,No
+296,Female,22,Middle class,Single,Bachelor,5,9.75,No,Normal,High,No
+297,Male,20,Middle class,Single,Bachelor,5,9.43,Yes,Abnormal,High,Yes
+298,Male,20,Lower Middle class,Single,Bachelor,4,7.5,Yes,Normal,Low,No
+299,Male,20,Middle class,Single,Bachelor,6,8.98,No,Abnormal,High,Yes
+300,Female,21,Middle class,Single,Family,6,9.12,Yes,Normal,Mid,No
+301,Female,23,Middle class,In a Relationship,Bachelor,9,9.07,Yes,Good,High,No
+302,Male,23,Middle class,Single,Bachelor,8,9.38,Yes,Good,Mid,No
+303,Female,22,Rich class,In a Relationship,Family,10,6.57,Yes,Good,Low,No
+304,Female,21,Middle class,Single,Bachelor,4,9.43,No,Critical,Mid,Yes
+305,Male,20,Lower Middle class,In a Relationship,Bachelor,7,7.5,No,Normal,Low,No
+306,Male,23,Lower Middle class,Single,Family,3,7.5,No,Good,Low,No
+307,Male,23,Middle class,Single,Bachelor,5,8.65,No,Critical,High,Yes
+308,Male,23,Middle class,In a Relationship,Family,2,7.5,Yes,Normal,High,No
+309,Female,23,Middle class,In a Relationship,Bachelor,6,8.58,No,Abnormal,High,No
+310,Female,23,Middle class,Single,Family,4,7.3,No,Good,Low,No
+311,Female,22,Rich class,In a Relationship,Family,5,9.52,Yes,Good,Low,No
+312,Male,20,Middle class,In a Relationship,Bachelor,7,7.5,No,Good,High,No
+313,Male,18,Lower Middle class,Single,Family,3,9.5,Yes,Normal,Low,No
+314,Male,20,Rich class,Single,Family,2,10.0,No,Normal,Mid,No
+315,Male,22,Middle class,Single,Bachelor,8,8.7,Yes,Normal,Mid,No
+316,Male,20,Lower Middle class,Single,Bachelor,3,6.32,Yes,Abnormal,Low,Yes
+317,Male,23,Middle class,Single,Bachelor,0,9.72,Yes,Normal,High,No

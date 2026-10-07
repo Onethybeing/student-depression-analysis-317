@@ -1,0 +1,13 @@
+Column,Type,Missing,Unique values
+Student_ID,int64,0,317
+Gender,object,0,2
+Age,int64,0,7
+Family_background,object,0,3
+Relationship_status,object,0,3
+Living_style,object,0,2
+Current_semester,int64,0,12
+CGPA,float64,0,94
+friend_circle,object,0,2
+Health_condition,object,0,4
+Living_expense,object,0,3
+Depression,object,0,2

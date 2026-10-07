@@ -1,0 +1,15 @@
+Variable,Survey question,Description and coding,Data type
+depression,Depression,"Whether the student reports depression. 1 = Yes, 0 = No.",Binary (dependent variable)
+male,Gender,"Gender of the student. 1 = Male, 0 = Female.",Binary
+age,Age,Age of the student in years (18-24).,Numerical (discrete)
+cgpa,CGPA,Cumulative grade point average on a 10.00 scale (sample restricted to CGPA above 6.00).,Numerical (continuous)
+semester,Current semester,Semester the student is currently in.,Numerical (discrete)
+cost_mid,Living expense,"1 = Mid monthly living cost, 10,000-14,999 excluding study costs (base group: Low, below 10,000).",Binary (dummy)
+cost_high,Living expense,"1 = High monthly living cost, 15,000 or more excluding study costs (base group: Low, below 10,000).",Binary (dummy)
+fam_lowermid,Family background,1 = Lower-middle class family (base group: middle class).,Binary (dummy)
+fam_rich,Family background,1 = Rich class family (base group: middle class).,Binary (dummy)
+single,Relationship status,"1 = Single, 0 = In a relationship or complicated.",Binary
+live_family,Living style,"1 = Lives with family, 0 = Lives as a bachelor (hostel/mess/shared).",Binary
+friend_circle,Friend circle,"1 = Has a friend circle, 0 = Does not.",Binary
+health_poor,Health condition,"1 = Abnormal or critical health, 0 = Good or normal (robustness model only).",Binary
+health_level,Health condition,"1 = Good, 2 = Normal, 3 = Abnormal, 4 = Critical (descriptive only).",Ordinal

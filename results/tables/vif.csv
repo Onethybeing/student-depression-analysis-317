@@ -1,0 +1,12 @@
+Variable,VIF,Tolerance (1/VIF)
+Male,1.427,0.701
+Age (years),1.154,0.867
+CGPA,1.12,0.893
+Current semester,1.089,0.918
+Mid living expense,2.896,0.345
+High living expense,2.769,0.361
+Lower-middle class,2.5,0.4
+Rich class,1.411,0.709
+Single,1.19,0.84
+Lives with family,1.457,0.686
+Has friend circle,1.109,0.902

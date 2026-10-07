@@ -1,0 +1,6 @@
+Student_ID,Gender,Age,Family_background,Relationship_status,Living_style,Current_semester,CGPA,friend_circle,Health_condition,Living_expense,Depression
+1,Female,21,Middle class,Single,Bachelor,7,8.0,Yes,Abnormal,High,No
+2,Male,20,Middle class,Single,Bachelor,5,9.3,Yes,Abnormal,Mid,Yes
+3,Male,23,Middle class,In a Relationship,Bachelor,4,9.18,Yes,Good,High,No
+4,Male,20,Middle class,Single,Bachelor,8,7.5,Yes,Good,High,No
+5,Male,22,Middle class,Single,Bachelor,3,8.98,Yes,Good,High,No

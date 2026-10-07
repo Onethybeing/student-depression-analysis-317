@@ -1,0 +1,5 @@
+Model,Cutoff,True positives,False positives,False negatives,True negatives,Sensitivity,Specificity,Correctly classified
+Logit,0.5,23,27,69,198,0.25,0.88,0.6972
+Logit,0.2902,78,74,14,151,0.8478,0.6711,0.7224
+Probit,0.5,24,29,68,196,0.2609,0.8711,0.694
+Probit,0.2902,78,78,14,147,0.8478,0.6533,0.7098

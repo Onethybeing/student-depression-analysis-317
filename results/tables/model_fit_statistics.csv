@@ -1,0 +1,3 @@
+Model,Observations,Log likelihood,Log likelihood (null),LR chi2,LR df,Prob > chi2,Pseudo R2 (McFadden),AIC,BIC,AUC (ROC),Hosmer-Lemeshow chi2,HL df,HL p-value
+Logit,317,-154.9392,-190.9447,72.011,11,0.0,0.1886,333.8784,378.9853,0.7825,10.3476,8,0.2415
+Probit,317,-154.6391,-190.9447,72.6112,11,0.0,0.1901,333.2783,378.3851,0.782,19.4084,8,0.0128
